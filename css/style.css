@@ -80,6 +80,8 @@ a{
   color: var(--light-color)
 }
 
+
+
 /* Showcase */
 
 #showcase {
@@ -115,6 +117,11 @@ a{
 
 .lead{
   font-size: 1.3rem;
+}
+
+.bg-light{
+  background: var(--light-color);
+  color: #333;
 }
 
 .mb{
