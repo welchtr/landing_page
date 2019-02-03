@@ -9,6 +9,10 @@ color: #fff;
 line-height: 1.6;
 }
 
+img{
+  width: 100%;
+}
+
 /* Showcase */
 
 #showcase {
