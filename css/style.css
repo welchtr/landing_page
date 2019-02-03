@@ -44,7 +44,14 @@ a{
 
 .section#entertainment{
   background: url(../img/starrysky-bg.jpg) no-repeat bottom/cover;
-  padding: 10rem 0; 
+  padding: 10rem 0;
+}
+
+.gift-cards-container{
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 1fr 1fr;
+  text-align: left;
 
 }
 
