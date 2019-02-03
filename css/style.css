@@ -42,6 +42,12 @@ a{
   font-size:2rem;
 }
 
+.section#entertainment{
+  background: url(../img/starrysky-bg.jpg) no-repeat bottom/cover;
+  padding: 10rem 0; 
+
+}
+
 /* Buttons */
 .btn{
   padding: 1rem;
